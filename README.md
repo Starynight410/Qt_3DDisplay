@@ -24,6 +24,10 @@ make install
 安装好之后就包含datavisualization库，检测方式是添加QT+=datavisualization看编译是否通过。
 
 # 软件功能测试
-该功能包含部分自用功能，主要测试三维绘图，读取本地的csv文件并完成图像绘制。上位机界面如下：
+该功能包含部分自用功能，主要测试三维绘图，读取本地的csv文件并完成图像绘制。工程包含文件目录如下：
+
+![image](image/工程文件.png)
+
+运行上位机的界面如下：
 
 ![image](image/qt界面图.png)
